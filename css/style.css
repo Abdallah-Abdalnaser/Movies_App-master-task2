@@ -247,7 +247,7 @@ header .btn {
   header .logo {
     flex: 1;
   }
-  
+
   #menu-icon {
     display: initial !important;
     color: var(--bg-color);
@@ -273,6 +273,10 @@ header .btn {
 
   .navbar.active {
     top: 100%;
+  }
+
+  .news form {
+    width: 100% !important;
   }
 }
 
